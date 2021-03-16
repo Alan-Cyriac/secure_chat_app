@@ -28,7 +28,7 @@ print("[+] Is table Created: " + table_create)
 
 # insert into ADMIN table
 username = "Alan" # insert your name to ADMIN table
-password = "**********" # also insert password but only psw's hash value is saved in the ADMIN table
+password = "password" # also insert password but only psw's hash value is saved in the ADMIN table
 salt = b'\x15%\xfb\xd1\r\x9d\xd3\xa4\xa9\xfb%\xbd\x14vl\xaa\x1f\xc3q\x86\xf9S\xe5\xe8\x7f\xfd\xd1\xcd\xcf\xcb\xfc\xc7'
 
 # Generating hash value
