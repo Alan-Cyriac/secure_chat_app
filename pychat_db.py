@@ -1,3 +1,5 @@
+# Alan Cyriac
+
 import sqlite3
 import hashlib
 
