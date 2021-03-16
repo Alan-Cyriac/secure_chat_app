@@ -12,4 +12,5 @@ after that, create a public key and private key by executing create_pk_puk.py
 
 # lastly, run:
 py server.py in a cmd
+
 py client.py in another cmd
