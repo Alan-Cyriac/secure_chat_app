@@ -7,8 +7,6 @@ from Cryptodome.PublicKey import RSA
 import os
 
 def create_cred_keys():
-
-    # Will create key via name centos/centos_pub
     
     """
     To create public and private key
