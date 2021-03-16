@@ -1,5 +1,5 @@
 # secure_chat_app
-A python program to interact with friends in a chatroom which is have asymmetric 2 key encryption.
+A python program to interact with friends in a chatroom which have asymmetric 2 key encryption.
 
 # how it work?
 Initially, install required libraries by excuting below line
